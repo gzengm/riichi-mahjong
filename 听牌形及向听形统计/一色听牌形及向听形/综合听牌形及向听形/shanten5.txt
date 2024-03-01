@@ -1,0 +1,124 @@
+manzu:
+maisuu(number of hai): 0
+total: 0
+maisuu(number of hai): 1
+total: 0
+maisuu(number of hai): 2
+total: 0
+maisuu(number of hai): 3
+total: 0
+maisuu(number of hai): 4
+total: 0
+maisuu(number of hai): 5
+total: 0
+maisuu(number of hai): 6
+total: 0
+maisuu(number of hai): 7
+total: 0
+maisuu(number of hai): 8
+total: 0
+maisuu(number of hai): 9
+total: 0
+maisuu(number of hai): 10
+total: 0
+maisuu(number of hai): 11
+total: 0
+maisuu(number of hai): 12
+total: 0
+maisuu(number of hai): 13
+total: 0
+maisuu(number of hai): 14
+total: 0
+pinzu:
+maisuu(number of hai): 0
+total: 0
+maisuu(number of hai): 1
+total: 0
+maisuu(number of hai): 2
+total: 0
+maisuu(number of hai): 3
+total: 0
+maisuu(number of hai): 4
+total: 0
+maisuu(number of hai): 5
+total: 0
+maisuu(number of hai): 6
+total: 0
+maisuu(number of hai): 7
+total: 0
+maisuu(number of hai): 8
+total: 0
+maisuu(number of hai): 9
+total: 0
+maisuu(number of hai): 10
+total: 0
+maisuu(number of hai): 11
+total: 0
+maisuu(number of hai): 12
+total: 0
+maisuu(number of hai): 13
+total: 0
+maisuu(number of hai): 14
+total: 0
+souzu:
+maisuu(number of hai): 0
+total: 0
+maisuu(number of hai): 1
+total: 0
+maisuu(number of hai): 2
+total: 0
+maisuu(number of hai): 3
+total: 0
+maisuu(number of hai): 4
+total: 0
+maisuu(number of hai): 5
+total: 0
+maisuu(number of hai): 6
+total: 0
+maisuu(number of hai): 7
+total: 0
+maisuu(number of hai): 8
+total: 0
+maisuu(number of hai): 9
+total: 0
+maisuu(number of hai): 10
+total: 0
+maisuu(number of hai): 11
+total: 0
+maisuu(number of hai): 12
+total: 0
+maisuu(number of hai): 13
+total: 0
+maisuu(number of hai): 14
+total: 0
+jihai:
+maisuu(number of hai): 0
+total: 0
+maisuu(number of hai): 1
+total: 0
+maisuu(number of hai): 2
+total: 0
+maisuu(number of hai): 3
+total: 0
+maisuu(number of hai): 4
+total: 0
+maisuu(number of hai): 5
+total: 0
+maisuu(number of hai): 6
+total: 0
+maisuu(number of hai): 7
+total: 0
+maisuu(number of hai): 8
+total: 0
+maisuu(number of hai): 9
+total: 0
+maisuu(number of hai): 10
+total: 0
+maisuu(number of hai): 11
+total: 0
+maisuu(number of hai): 12
+total: 0
+maisuu(number of hai): 13
+total: 0
+maisuu(number of hai): 14
+total: 0

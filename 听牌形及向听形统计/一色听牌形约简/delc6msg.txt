@@ -1,0 +1,108 @@
+Repeated in case 6: 3366 & 4455
+Length: 4
+Delete: 3366
+Repeated in case 6: 4455 & 4466
+Length: 4
+Delete: 4466
+Repeated in case 6: 2223488 & 2255567
+Length: 7
+Delete: 2223488
+Repeated in case 6: 2255567 & 2256777
+Length: 7
+Delete: 2255567
+Repeated in case 6: 2256777 & 3334577
+Length: 7
+Delete: 2256777
+Repeated in case 6: 3334577 & 3355567
+Length: 7
+Delete: 3334577
+Repeated in case 6: 3355567 & 3455566
+Length: 7
+Delete: 3355567
+Repeated in case 6: 1112345699 & 1133345678
+Length: 10
+Delete: 1112345699
+Repeated in case 6: 1112366678 & 1112367888
+Length: 10
+Delete: 1112366678
+Repeated in case 6: 1112367888 & 1112378999
+Length: 10
+Delete: 1112378999
+Repeated in case 6: 1112367888 & 2223466678
+Length: 10
+Delete: 1112367888
+Repeated in case 6: 1133345678 & 1134567888
+Length: 10
+Delete: 1133345678
+Repeated in case 6: 1134567888 & 2233345678
+Length: 10
+Delete: 1134567888
+Repeated in case 6: 1145666678 & 2245666678
+Length: 10
+Delete: 1145666678
+Repeated in case 6: 2223466678 & 2344455567
+Length: 10
+Delete: 2223466678
+Repeated in case 6: 2233344488 & 2255566677
+Length: 10
+Delete: 2233344488
+Repeated in case 6: 2233445588 & 2244556677
+Length: 10
+Delete: 2233445588
+Repeated in case 6: 2255566677 & 2255666777
+Length: 10
+Delete: 2255666777
+Repeated in case 6: 2255566677 & 3334445577
+Length: 10
+Delete: 2255566677
+Repeated in case 6: 2344455567 & 2344466678
+Length: 10
+Delete: 2344466678
+Repeated in case 6: 3334445577 & 3344455577
+Length: 10
+Delete: 3334445577
+Repeated in case 6: 1112355667788 & 1112366778899
+Length: 13
+Delete: 1112366778899
+Repeated in case 6: 1112355667788 & 1122334466678
+Length: 13
+Delete: 1122334466678
+Repeated in case 6: 1112366677788 & 1112366777888
+Length: 13
+Delete: 1112366677788
+Repeated in case 6: 1112366777888 & 1112377788899
+Length: 13
+Delete: 1112377788899
+Repeated in case 6: 1112366777888 & 1122233366678
+Length: 13
+Delete: 1122233366678
+Repeated in case 6: 1112366777888 & 2223334466678
+Length: 13
+Delete: 1112366777888
+Repeated in case 6: 1122233345699 & 1133444555678
+Length: 13
+Delete: 1122233345699
+Repeated in case 6: 1122334445699 & 1133445566678
+Length: 13
+Delete: 1122334445699
+Repeated in case 6: 1133444555678 & 1134566677788
+Length: 13
+Delete: 1133444555678
+Repeated in case 6: 1133445566678 & 1134555667788
+Length: 13
+Delete: 1133445566678
+Repeated in case 6: 1144455566678 & 1145666777888
+Length: 13
+Delete: 1145666777888
+Repeated in case 6: 1144455566678 & 2223334445688
+Length: 13
+Delete: 1144455566678
+Repeated in case 6: 2223334445688 & 2244455566678
+Length: 13
+Delete: 2223334445688
+Repeated in case 6: 2223334466678 & 2223334467888
+Length: 13
+Delete: 2223334466678
+Repeated in case 6: 2223334467888 & 2233344466678
+Length: 13
+Delete: 2233344466678

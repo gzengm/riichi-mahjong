@@ -1,0 +1,145 @@
+manzu:
+maisuu(number of hai): 0
+total: 0
+maisuu(number of hai): 1
+total: 0
+maisuu(number of hai): 2
+total: 0
+maisuu(number of hai): 3
+total: 0
+maisuu(number of hai): 4
+total: 0
+maisuu(number of hai): 5
+total: 0
+maisuu(number of hai): 6
+total: 0
+maisuu(number of hai): 7
+total: 0
+maisuu(number of hai): 8
+total: 0
+maisuu(number of hai): 9
+total: 0
+maisuu(number of hai): 10
+total: 0
+maisuu(number of hai): 11
+total: 0
+maisuu(number of hai): 12
+total: 0
+maisuu(number of hai): 13
+total: 0
+maisuu(number of hai): 14
+total: 0
+pinzu:
+maisuu(number of hai): 0
+total: 0
+maisuu(number of hai): 1
+total: 0
+maisuu(number of hai): 2
+total: 0
+maisuu(number of hai): 3
+total: 0
+maisuu(number of hai): 4
+total: 0
+maisuu(number of hai): 5
+total: 0
+maisuu(number of hai): 6
+total: 0
+maisuu(number of hai): 7
+total: 0
+maisuu(number of hai): 8
+total: 0
+maisuu(number of hai): 9
+total: 0
+maisuu(number of hai): 10
+total: 0
+maisuu(number of hai): 11
+total: 0
+maisuu(number of hai): 12
+total: 0
+maisuu(number of hai): 13
+total: 0
+maisuu(number of hai): 14
+total: 0
+souzu:
+maisuu(number of hai): 0
+total: 0
+maisuu(number of hai): 1
+total: 0
+maisuu(number of hai): 2
+total: 0
+maisuu(number of hai): 3
+total: 0
+maisuu(number of hai): 4
+total: 0
+maisuu(number of hai): 5
+total: 0
+maisuu(number of hai): 6
+total: 0
+maisuu(number of hai): 7
+total: 0
+maisuu(number of hai): 8
+total: 0
+maisuu(number of hai): 9
+total: 0
+maisuu(number of hai): 10
+total: 0
+maisuu(number of hai): 11
+total: 0
+maisuu(number of hai): 12
+total: 0
+maisuu(number of hai): 13
+total: 0
+maisuu(number of hai): 14
+total: 0
+jihai:
+maisuu(number of hai): 0
+total: 0
+maisuu(number of hai): 1
+total: 0
+maisuu(number of hai): 2
+total: 0
+maisuu(number of hai): 3
+total: 0
+maisuu(number of hai): 4
+total: 0
+maisuu(number of hai): 5
+total: 0
+maisuu(number of hai): 6
+total: 0
+maisuu(number of hai): 7
+total: 0
+maisuu(number of hai): 8
+total: 0
+maisuu(number of hai): 9
+total: 0
+maisuu(number of hai): 10
+total: 0
+maisuu(number of hai): 11
+total: 0
+maisuu(number of hai): 12
+total: 0
+maisuu(number of hai): 13
+1111222234567z
+1111233334567z
+1111234444567z
+1111234555567z
+1111234566667z
+1111234567777z
+1222233334567z
+1222234444567z
+1222234555567z
+1222234566667z
+1222234567777z
+1233334444567z
+1233334555567z
+1233334566667z
+1233334567777z
+1234444555567z
+1234444566667z
+1234444567777z
+1234555566667z
+1234555567777z
+1234566667777z
+total: 21
+maisuu(number of hai): 14
+total: 0

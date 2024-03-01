@@ -1,0 +1,3 @@
+all tehai pattern:
+11223344556677z
+total: 1
